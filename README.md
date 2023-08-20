@@ -1,4 +1,4 @@
-# Interpreter-
+# Simple Interpreter-
 CS 4308 – Concepts of Programming Languages Project
 3 Deliverables (300 pts Total – 100 pts Per Deliverable)
 The project for this course is the development of an interpreter of a language implemented
