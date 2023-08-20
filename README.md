@@ -40,14 +40,13 @@ code files. If you have more than 5 source code files, please submit your files 
 
 Grammar for the Julia language
 
-Syntax Analyzer <program>
+Syntax Analyzer
 
-<program> -> function id() <block> end
+<program> → function id() <block> end
 
 <block> → <statement> | <statement> <block>
 
 <statement> → <if_statement> | <assignment_statement> | <while_statement> |
-
 <print_statement> | <repeat_statement>
 
 <if_statement> → if <boolean_expression> then <block> else <block> end
